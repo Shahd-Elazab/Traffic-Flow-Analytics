@@ -1,2 +1,0 @@
-kafka_python
-faker
